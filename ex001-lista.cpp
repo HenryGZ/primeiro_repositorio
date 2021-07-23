@@ -9,6 +9,7 @@ int main()
 	float salario;
     setlocale(LC_ALL,"Portuguese");
   {
+	  cout << "alteração teste\n"
 	  while (i < 3)
 	  {
 	  	i = i + 1;
